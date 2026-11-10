@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Job Seeking App",
+    "slug": "job-seeking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4F46E5"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "jobseeking"
+  }
+}
